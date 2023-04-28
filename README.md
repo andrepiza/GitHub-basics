@@ -12,7 +12,7 @@
 *italic*
 
 below you can find Emma Karoune's readme template copied over
-# Add Title 
+# This title is proposed by Sara 
 
 ## Welcome! 
 
